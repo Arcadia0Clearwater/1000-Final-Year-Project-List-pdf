@@ -1,4 +1,4 @@
-# 1000-Final-Year-Projects-List-Pdf
+# Final-Year-Projects-List-Pdf
 
 ## Complete List of Projects / Ideas / Titles for students 
 
