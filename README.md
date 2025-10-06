@@ -18,3 +18,18 @@ Complete List of Projects / Ideas /Titles for Final Year Projects
 
 ### Python : https://youtube.com/playlist?list=PL5g-9zkOohaGu9MN9zIp2Sx8WJcas6q7F&si=QXN6qs9UcG1V62v_
 
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : vatshayan007@gmail.com 
+
+### Contact(Mail/Whatsapp/Call) : http://contactvatshayan.com
+
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.finalproject.in/
+
+### 1000 Computer Science Projects Website : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
